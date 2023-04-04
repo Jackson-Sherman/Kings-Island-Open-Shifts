@@ -1,0 +1,140 @@
+9:02 AM - 4:00 PM [6.9667]
+4070 Mystic Timbers/Ride Operator
+9:02 AM - 4:00 PM [6.9667]
+4071 Beast/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4056 Banshee/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4059 Invertigo/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4064 Skyflyer/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4065 Drop Tower/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+[4] • 9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+[4] • 9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+[7] • 9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4059 Invertigo/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4059 Invertigo/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4060 Congo/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4061 Delirium/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4061 Delirium/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4065 Drop Tower/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4065 Drop Tower/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+11:35 AM - 8:00 PM [8.4167]
+4065 Drop Tower/Ride Operator
+11:35 AM - 8:00 PM [8.4167]
+4062 Bat/Ride Operator
+[3] • 11:35 AM - 8:00 PM [8.4167]
+4071 Beast/Ride Operator
+11:38 AM - 8:00 PM [8.3667]
+4060 Congo/Ride Operator
+[2] • 11:38 AM - 8:00 PM [8.3667]
+4059 Invertigo/Ride Operator
+[3] • 11:38 AM - 8:00 PM [8.3667]
+4070 Mystic Timbers/Ride Operator
+[4] • 11:39 AM - 8:00 PM [8.3500]
+4056 Banshee/Ride Operator
+[2] • 11:39 AM - 8:00 PM [8.3500]
+4064 Skyflyer/Ride Operator
+3:35 PM - 10:45 PM [7.1667]
+4065 Drop Tower/Ride Operator
+[2] • 3:35 PM - 10:30 PM [6.9167]
+4065 Drop Tower/Ride Operator
+3:35 PM - 10:30 PM [6.9167]
+4062 Bat/Ride Operator
+3:35 PM - 10:30 PM [6.9167]
+4062 Bat/Ride Operator
+[2] • 3:35 PM - 10:30 PM [6.9167]
+4062 Bat/Ride Operator
+3:38 PM - 10:45 PM [7.1167]
+4059 Invertigo/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4059 Invertigo/Ride Operator
+[2] • 3:38 PM - 10:30 PM [6.8667]
+4059 Invertigo/Ride Operator
+[2] • 3:38 PM - 10:30 PM [6.8667]
+4060 Congo/Ride Operator
+[2] • 3:38 PM - 10:30 PM [6.8667]
+4061 Delirium/Ride Operator
+[2] • 3:38 PM - 10:30 PM [6.8667]
+4061 Delirium/Ride Operator
+3:38 PM - 10:45 PM [7.1167]
+4070 Mystic Timbers/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4070 Mystic Timbers/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4070 Mystic Timbers/Ride Operator
+[4] • 3:38 PM - 10:30 PM [6.8667]
+4070 Mystic Timbers/Ride Operator
+3:38 PM - 10:45 PM [7.1167]
+4071 Beast/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4071 Beast/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4071 Beast/Ride Operator
+[4] • 3:38 PM - 10:30 PM [6.8667]
+4071 Beast/Ride Operator
+3:39 PM - 10:45 PM [7.1000]
+4056 Banshee/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4056 Banshee/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4056 Banshee/Ride Operator
+[7] • 3:39 PM - 10:30 PM [6.8500]
+4056 Banshee/Ride Operator
+3:39 PM - 10:45 PM [7.1000]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
+3:39 PM - 10:30 PM [6.8500]
+4064 Skyflyer/Ride Operator
