@@ -1,5 +1,6 @@
 import datetime as dt
 import re
+import json
 
 class Shift:
     def __init__(self, lines):
@@ -30,22 +31,31 @@ class Shift:
         return (get_time(groups, False), get_time(groups, True)), float(groups[6])
 
     def __str__(self):
-        return "{} [{}] {} {}".format(self.time_str,self.count, self.ride_num, self.ride)
+        return "{:>18} [{}] {} {}".format(self.time_str,self.count, self.ride_num, self.ride)
 
 if __name__ == "__main__":
-    with open("raw.txt", "r") as file:
+    # file can be selected from days/wed.txt or days/raw.txt which represent
+    # 4/12/23 and 4/15/23 respectively. This is the info as of 7:00pm EDT on
+    # 4/4/23. Very interesting how they are scheduling us at the beginning of
+    # this year. I don't know what they're doing honestly. Also 4/15 and 4/16
+    # have the exact same availible open shifts...
+    with open("days/sat.txt", "r") as file:
         all_lines = file.read().splitlines()
     
-    shifts = [Shift(all_lines[i:i+2]) for i in range(0, len(all_lines), 2)]
-    count_of_rides = {}
-    for shift in shifts:
-        if shift.ride not in count_of_rides:
-            count_of_rides[shift.ride] = 0
-        count_of_rides[shift.ride] += shift.count
+    with open("crews.json", "r") as file:
+        crews = json.load(file)
     
-    for ride in sorted(count_of_rides.keys()):
-        print(count_of_rides[ride], ride)
-    print(sum([v for _,v in count_of_rides.items()]))
+    shifts = [Shift(all_lines[i:i+2]) for i in range(0, len(all_lines), 2)]
+    count_of_crews = {}
+    for shift in shifts:
+        crew = crews[shift.ride]
+        if crew not in count_of_crews:
+            count_of_crews[crew] = 0
+        count_of_crews[crew] += shift.count
+    
+    for crew in sorted(count_of_crews.keys()):
+        print(count_of_crews[crew], crew)
+    print(sum([v for _,v in count_of_crews.items()]))
 
-    for shift in sorted(shifts, key=lambda s: s.times[0]):
+    for shift in sorted(sorted(shifts, key=lambda s: s.times[0]), key=lambda s: crews[s.ride]):
         print(shift)
