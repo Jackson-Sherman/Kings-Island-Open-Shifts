@@ -1,5 +1,9 @@
 9:04 AM - 4:00 PM [6.9333]
 4056 Banshee/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4058 Viking Ship/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4058 Viking Ship/Ride Operator
 9:09 AM - 4:00 PM [6.8500]
 4056 Banshee/Ride Operator
 9:09 AM - 4:00 PM [6.8500]
@@ -8,6 +12,8 @@
 4056 Banshee/Ride Operator
 [4] • 11:39 AM - 8:00 PM [8.3500]
 4056 Banshee/Ride Operator
+11:40 AM - 8:00 PM [8.3333]
+4058 Viking Ship/Ride Operator
 3:39 PM - 10:30 PM [6.8500]
 4056 Banshee/Ride Operator
 3:39 PM - 10:30 PM [6.8500]
@@ -16,6 +22,10 @@
 4056 Banshee/Ride Operator
 3:39 PM - 10:45 PM [7.1000]
 4056 Banshee/Ride Operator
+[2] • 3:40 PM - 10:30 PM [6.8333]
+4058 Viking Ship/Ride Operator
+3:40 PM - 10:30 PM [6.8333]
+4058 Viking Ship/Ride Operator
 9:04 AM - 4:00 PM [6.9333]
 4059 Invertigo/Ride Operator
 9:09 AM - 4:00 PM [6.8500]
@@ -146,8 +156,24 @@
 4072 Flume/Ride Operator
 [2] • 9:11 AM - 4:00 PM [6.8167]
 4073 Linus Launcher/Ride Operator
+10:02 AM - 4:00 PM [5.9667]
+4075 Train/Ride Operator
+[3] • 10:07 AM - 4:00 PM [5.8833]
+4075 Train/Ride Operator
+[2] • 10:07 AM - 4:00 PM [5.8833]
+4075 Train/Ride Operator
+[6] • 11:37 AM - 8:00 PM [8.3833]
+4075 Train/Ride Operator
 [4] • 11:39 AM - 8:00 PM [8.3500]
 4072 Flume/Ride Operator
+3:37 PM - 8:30 PM [4.8833]
+4075 Train/Ride Operator
+[2] • 3:37 PM - 10:30 PM [6.8833]
+4075 Train/Ride Operator
+[2] • 3:37 PM - 10:30 PM [6.8833]
+4075 Train/Ride Operator
+3:37 PM - 10:45 PM [7.1333]
+4075 Train/Ride Operator
 [2] • 3:39 PM - 10:30 PM [6.8500]
 4072 Flume/Ride Operator
 [3] • 3:39 PM - 10:30 PM [6.8500]
@@ -164,24 +190,8 @@
 4076 Diamondback/Ride Operator
 [6] • 9:07 AM - 4:00 PM [6.8833]
 4076 Diamondback/Ride Operator
-10:02 AM - 4:00 PM [5.9667]
-4075 Train/Ride Operator
-[3] • 10:07 AM - 4:00 PM [5.8833]
-4075 Train/Ride Operator
-[2] • 10:07 AM - 4:00 PM [5.8833]
-4075 Train/Ride Operator
-[6] • 11:37 AM - 8:00 PM [8.3833]
-4075 Train/Ride Operator
 [3] • 11:39 AM - 8:00 PM [8.3500]
 4076 Diamondback/Ride Operator
-3:37 PM - 8:30 PM [4.8833]
-4075 Train/Ride Operator
-[2] • 3:37 PM - 10:30 PM [6.8833]
-4075 Train/Ride Operator
-[2] • 3:37 PM - 10:30 PM [6.8833]
-4075 Train/Ride Operator
-3:37 PM - 10:45 PM [7.1333]
-4075 Train/Ride Operator
 3:38 PM - 10:30 PM [6.8667]
 4076 Diamondback/Ride Operator
 3:38 PM - 10:30 PM [6.8667]
@@ -240,3 +250,109 @@
 4081 Zephyr/Ride Operator
 [2] • 3:37 PM - 10:30 PM [6.8833]
 4081 Zephyr/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4082 Monster/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4082 Monster/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4084 Scrambler/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4083 Dodgem/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4084 Scrambler/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4084 Scrambler/Ride Operator
+11:38 AM - 8:00 PM [8.3667]
+4082 Monster/Ride Operator
+11:38 AM - 8:00 PM [8.3667]
+4083 Dodgem/Ride Operator ,4084 Scrambler/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4082 Monster/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4082 Monster/Ride Operator
+[2] • 3:38 PM - 10:30 PM [6.8667]
+4084 Scrambler/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4083 Dodgem/Ride Operator
+3:38 PM - 10:30 PM [6.8667]
+4082 Monster/Ride Operator
+3:38 PM - 10:45 PM [7.1167]
+4082 Monster/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4085 Flight of Fear/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+[5] • 9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+[3] • 11:35 AM - 8:00 PM [8.4167]
+4085 Flight of Fear/Ride Operator
+3:35 PM - 10:45 PM [7.1667]
+4085 Flight of Fear/Ride Operator
+3:45 PM - 10:30 PM [6.7500]
+4085 Flight of Fear/Ride Operator
+3:45 PM - 10:30 PM [6.7500]
+4085 Flight of Fear/Ride Operator
+[5] • 3:45 PM - 10:30 PM [6.7500]
+4085 Flight of Fear/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4088 Antique Autos/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4088 Antique Autos/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4088 Antique Autos/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4089 Windseeker/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4089 Windseeker/Ride Operator
+11:35 AM - 8:00 PM [8.4167]
+4088 Antique Autos/Ride Operator
+11:35 AM - 8:00 PM [8.4167]
+4089 Windseeker/Ride Operator
+11:35 AM - 8:00 PM [8.4167]
+4088 Antique Autos/Ride Operator ,4089 Windseeker/Ride Operator
+[2] • 3:35 PM - 10:30 PM [6.9167]
+4088 Antique Autos/Ride Operator
+3:35 PM - 10:30 PM [6.9167]
+4088 Antique Autos/Ride Operator
+[2] • 3:35 PM - 10:30 PM [6.9167]
+4089 Windseeker/Ride Operator
+3:35 PM - 10:30 PM [6.9167]
+4089 Windseeker/Ride Operator
+3:35 PM - 10:45 PM [7.1667]
+4088 Antique Autos/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4090 Orion/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+[7] • 9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+[4] • 11:34 AM - 8:00 PM [8.4333]
+4090 Orion/Ride Operator
+3:34 PM - 10:30 PM [6.9333]
+4090 Orion/Ride Operator
+3:34 PM - 10:30 PM [6.9333]
+4090 Orion/Ride Operator
+[7] • 3:34 PM - 10:30 PM [6.9333]
+4090 Orion/Ride Operator
+3:34 PM - 10:45 PM [7.1833]
+4090 Orion/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4095 Tower/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4095 Tower/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4096 Carousel/Ride Operator
+11:40 AM - 8:00 PM [8.3333]
+4095 Tower/Ride Operator
+11:40 AM - 8:00 PM [8.3333]
+4096 Carousel/Ride Operator
+[2] • 3:40 PM - 10:30 PM [6.8333]
+4095 Tower/Ride Operator
+[2] • 3:40 PM - 10:30 PM [6.8333]
+4096 Carousel/Ride Operator
+3:40 PM - 10:45 PM [7.0833]
+4095 Tower/Ride Operator
