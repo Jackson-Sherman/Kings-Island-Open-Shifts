@@ -87,11 +87,12 @@ def display_shift_table (shifts,crews,divider=" "):
 
 if __name__ == "__main__":
     # file can be selected from days/wed.txt or days/raw.txt which represent
-    # 4/12/23 and 4/15/23 respectively. This is the info as of 1:13 pm EDT on
-    # 4/5/23. Very interesting how they are scheduling us at the beginning of
+    # 4/12/23 and 4/15/23 respectively. This is the info as of 4:40 pm EDT on
+    # 4/5/23. It's outdated. I believe they're assigning shifts finally
+    #  Very interesting how they are scheduling us at the beginning of
     # this year. I don't know what they're doing honestly. Also 4/15 and 4/16
     # have the exact same availible open shifts...
-    with open("days/fri.txt", "r") as file:
+    with open("days/temp.txt", "r") as file:
         all_lines = file.read().splitlines()
     
     with open("crews.json", "r") as file:

@@ -1,204 +1,246 @@
-9:04 AM - 4:00 PM [6.9333]
-4056 Banshee/Ride Operator
-9:04 AM - 4:00 PM [6.9333]
-4059 Invertigo/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4056 Banshee/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4056 Banshee/Ride Operator
-[7] • 9:09 AM - 4:00 PM [6.8500]
-4056 Banshee/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4059 Invertigo/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4059 Invertigo/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4060 Congo/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4061 Delirium/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4061 Delirium/Ride Operator
-9:04 AM - 4:00 PM [6.9333]
-4064 Skyflyer/Ride Operator
-9:04 AM - 4:00 PM [6.9333]
-4065 Drop Tower/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4062 Bat/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4062 Bat/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4062 Bat/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4064 Skyflyer/Ride Operator
-[2] • 9:09 AM - 4:00 PM [6.8500]
-4065 Drop Tower/Ride Operator
-9:09 AM - 4:00 PM [6.8500]
-4065 Drop Tower/Ride Operator
-9:02 AM - 4:00 PM [6.9667]
-4070 Mystic Timbers/Ride Operator
-9:02 AM - 4:00 PM [6.9667]
-4071 Beast/Ride Operator
-9:06 AM - 4:00 PM [6.9000]
-4072 Flume/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4070 Mystic Timbers/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4070 Mystic Timbers/Ride Operator
-[4] • 9:07 AM - 4:00 PM [6.8833]
-4070 Mystic Timbers/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4071 Beast/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4071 Beast/Ride Operator
-[4] • 9:07 AM - 4:00 PM [6.8833]
-4071 Beast/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4072 Flume/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4072 Flume/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4073 Linus Launcher/Ride Operator
-9:02 AM - 4:00 PM [6.9667]
-4076 Diamondback/Ride Operator
-9:02 AM - 4:00 PM [6.9667]
-4077 Backlot/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4076 Diamondback/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4076 Diamondback/Ride Operator
-[6] • 9:07 AM - 4:00 PM [6.8833]
-4076 Diamondback/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4077 Backlot/Ride Operator
-9:07 AM - 4:00 PM [6.8833]
-4077 Backlot/Ride Operator
-[3] • 9:07 AM - 4:00 PM [6.8833]
-4077 Backlot/Ride Operator
-[2] • 9:07 AM - 4:00 PM [6.8833]
-4078 Troika/Ride Operator
-10:02 AM - 4:00 PM [5.9667]
-4075 Train/Ride Operator
-[3] • 10:07 AM - 4:00 PM [5.8833]
-4075 Train/Ride Operator
-[2] • 10:07 AM - 4:00 PM [5.8833]
-4075 Train/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
-4080 Racer/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4080 Racer/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4080 Racer/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4081 Zephyr/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4081 Zephyr/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
-4082 Monster/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4082 Monster/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4083 Dodgem/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4084 Scrambler/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4084 Scrambler/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
-4085 Flight of Fear/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
-4088 Antique Autos/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4085 Flight of Fear/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4085 Flight of Fear/Ride Operator
-[5] • 9:05 AM - 4:00 PM [6.9167]
-4085 Flight of Fear/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4088 Antique Autos/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4088 Antique Autos/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
-4089 Windseeker/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4089 Windseeker/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
-4090 Orion/Ride Operator
-9:00 AM - 4:00 PM [7.0000]
+11:06 AM - 8:30 PM [9.4000]
+4110 South Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4110 South Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4110 South Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4110 South Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4110 South Planet Snoopy/Ride Operator
+[3] • 12:40 PM - 8:30 PM [7.8333]
+4110 South Planet Snoopy/Ride Operator
+11:06 AM - 8:30 PM [9.4000]
+4106 East Planet Snoopy/Ride Operator
+[2] • 11:11 AM - 8:30 PM [9.3167]
+4106 East Planet Snoopy/Ride Operator
+[2] • 11:11 AM - 8:30 PM [9.3167]
+4106 East Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4106 East Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4106 East Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4106 East Planet Snoopy/Ride Operator
+12:39 PM - 8:30 PM [7.8500]
+4106 East Planet Snoopy/Ride Operator
+12:39 PM - 8:45 PM [8.1000]
+4106 East Planet Snoopy/Ride Operator
+11:06 AM - 8:30 PM [9.4000]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4101 West Planet Snoopy/Ride Operator
+[3] • 12:40 PM - 8:30 PM [7.8333]
+4101 West Planet Snoopy/Ride Operator
+11:06 AM - 8:30 PM [9.4000]
+4097 North Planet Snoopy/Ride Operator
+[2] • 11:11 AM - 8:30 PM [9.3167]
+4097 North Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4097 North Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4097 North Planet Snoopy/Ride Operator
+11:11 AM - 8:30 PM [9.3167]
+4097 North Planet Snoopy/Ride Operator
+[3] • 12:41 PM - 8:30 PM [7.8167]
+4097 North Planet Snoopy/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
 4095 Tower/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4090 Orion/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
-4090 Orion/Ride Operator
-[7] • 9:05 AM - 4:00 PM [6.9167]
-4090 Orion/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
+11:05 AM - 5:00 PM [5.9167]
 4095 Tower/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
+11:05 AM - 8:30 PM [9.4167]
+4095 Tower/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
 4096 Carousel/Ride Operator
-9:06 AM - 4:00 PM [6.9000]
-4101 West Planet Snoopy/Ride Operator
-9:06 AM - 4:00 PM [6.9000]
-4097 North Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4101 West Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4097 North Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4097 North Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4097 North Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4097 North Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4097 North Planet Snoopy/Ride Operator
-9:06 AM - 4:00 PM [6.9000]
-4106 East Planet Snoopy/Ride Operator
-9:06 AM - 4:00 PM [6.9000]
-4110 South Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4106 East Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4110 South Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4110 South Planet Snoopy/Ride Operator
-[2] • 9:11 AM - 4:00 PM [6.8167]
-4110 South Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4110 South Planet Snoopy/Ride Operator
-9:11 AM - 4:00 PM [6.8167]
-4110 South Planet Snoopy/Ride Operator
-[2] • 9:05 AM - 4:00 PM [6.9167]
+12:40 PM - 8:30 PM [7.8333]
+4096 Carousel/Ride Operator
+12:40 PM - 8:45 PM [8.0833]
+4095 Tower/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
+4090 Orion/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4090 Orion/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4090 Orion/Ride Operator
+[3] • 11:05 AM - 8:30 PM [9.4167]
+4090 Orion/Ride Operator
+[4] • 12:34 PM - 8:30 PM [7.9333]
+4090 Orion/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
+4088 Antique Autos/Ride Operator
+[2] • 11:05 AM - 5:00 PM [5.9167]
+4088 Antique Autos/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4088 Antique Autos/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4089 Windseeker/Ride Operator
+[2] • 12:35 PM - 8:30 PM [7.9167]
+4088 Antique Autos/Ride Operator
+[2] • 12:35 PM - 8:30 PM [7.9167]
+4089 Windseeker/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
+4085 Flight of Fear/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4085 Flight of Fear/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4085 Flight of Fear/Ride Operator
+[2] • 11:05 AM - 8:30 PM [9.4167]
+4085 Flight of Fear/Ride Operator
+12:45 PM - 8:45 PM [8.0000]
+4085 Flight of Fear/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
+4082 Monster/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4082 Monster/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4083 Dodgem/Ride Operator
+11:05 AM - 5:00 PM [5.9167]
+4084 Scrambler/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4084 Scrambler/Ride Operator
+12:38 PM - 8:30 PM [7.8667]
+4082 Monster/Ride Operator
+12:38 PM - 8:30 PM [7.8667]
+4083 Dodgem/Ride Operator
+12:38 PM - 8:30 PM [7.8667]
+4084 Scrambler/Ride Operator
+11:00 AM - 8:30 PM [9.5000]
+4080 Racer/Ride Operator
+[2] • 11:05 AM - 5:00 PM [5.9167]
+4080 Racer/Ride Operator
+[2] • 11:05 AM - 5:00 PM [5.9167]
+4080 Racer/Ride Operator
+[2] • 12:37 PM - 8:30 PM [7.8833]
+4080 Racer/Ride Operator
+[2] • 12:37 PM - 8:30 PM [7.8833]
+4080 Racer/Ride Operator
+11:05 AM - 5:00 PM [5.9167]
+4081 Zephyr/Ride Operator
+11:05 AM - 8:30 PM [9.4167]
+4081 Zephyr/Ride Operator
+12:37 PM - 8:30 PM [7.8833]
+4081 Zephyr/Ride Operator
+11:02 AM - 8:30 PM [9.4667]
+4077 Backlot/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4077 Backlot/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4077 Backlot/Ride Operator
+[2] • 11:07 AM - 8:30 PM [9.3833]
+4077 Backlot/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4078 Troika/Ride Operator
+12:35 PM - 8:30 PM [7.9167]
+4077 Backlot/Ride Operator
+12:35 PM - 8:30 PM [7.9167]
+4078 Troika/Ride Operator
+11:02 AM - 8:30 PM [9.4667]
+4076 Diamondback/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4076 Diamondback/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4076 Diamondback/Ride Operator
+[3] • 11:07 AM - 8:30 PM [9.3833]
+4076 Diamondback/Ride Operator
+[3] • 12:38 PM - 8:30 PM [7.8667]
+4076 Diamondback/Ride Operator
+12:02 PM - 8:30 PM [8.4667]
+4075 Train/Ride Operator
+[3] • 12:07 PM - 5:00 PM [4.8833]
+4075 Train/Ride Operator
+[3] • 12:07 PM - 8:30 PM [8.3833]
+4075 Train/Ride Operator
+[2] • 12:07 PM - 8:30 PM [8.3833]
+4075 Train/Ride Operator
+11:06 AM - 8:30 PM [9.4000]
+4072 Flume/Ride Operator
+[4] • 11:11 AM - 5:00 PM [5.8167]
+4072 Flume/Ride Operator
+[2] • 11:11 AM - 8:30 PM [9.3167]
+4073 Linus Launcher/Ride Operator
+[4] • 12:39 PM - 8:30 PM [7.8500]
+4072 Flume/Ride Operator
+11:02 AM - 8:30 PM [9.4667]
+4071 Beast/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4071 Beast/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4071 Beast/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4071 Beast/Ride Operator
+[3] • 12:38 PM - 8:30 PM [7.8667]
+4071 Beast/Ride Operator
+11:02 AM - 8:30 PM [9.4667]
+4070 Mystic Timbers/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4070 Mystic Timbers/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4070 Mystic Timbers/Ride Operator
+11:07 AM - 8:30 PM [9.3833]
+4070 Mystic Timbers/Ride Operator
+[3] • 12:38 PM - 8:45 PM [8.1167]
+4070 Mystic Timbers/Ride Operator
+11:04 AM - 8:30 PM [9.4333]
+4065 Drop Tower/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4062 Bat/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4062 Bat/Ride Operator
+[2] • 11:09 AM - 8:30 PM [9.3500]
+4065 Drop Tower/Ride Operator
+12:35 PM - 8:30 PM [7.9167]
+4062 Bat/Ride Operator
+12:35 PM - 8:45 PM [8.1667]
+4065 Drop Tower/Ride Operator
+11:04 AM - 8:30 PM [9.4333]
+4064 Skyflyer/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4064 Skyflyer/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4064 Skyflyer/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4064 Skyflyer/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4064 Skyflyer/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4064 Skyflyer/Ride Operator
+[2] • 12:39 PM - 8:30 PM [7.8500]
+4064 Skyflyer/Ride Operator
+11:04 AM - 8:30 PM [9.4333]
+4059 Invertigo/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4059 Invertigo/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4060 Congo/Ride Operator
+[2] • 11:09 AM - 8:30 PM [9.3500]
+4061 Delirium/Ride Operator
+[2] • 12:38 PM - 8:30 PM [7.8667]
+4059 Invertigo/Ride Operator
+12:38 PM - 8:30 PM [7.8667]
+4060 Congo/Ride Operator
+11:05 AM - 5:00 PM [5.9167]
 4058 Viking Ship/Ride Operator
-9:05 AM - 4:00 PM [6.9167]
+[2] • 11:05 AM - 8:30 PM [9.4167]
 4058 Viking Ship/Ride Operator
+12:40 PM - 8:30 PM [7.8333]
+4058 Viking Ship/Ride Operator
+11:04 AM - 8:30 PM [9.4333]
+4056 Banshee/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4056 Banshee/Ride Operator
+11:09 AM - 8:30 PM [9.3500]
+4056 Banshee/Ride Operator
+[3] • 11:09 AM - 8:30 PM [9.3500]
+4056 Banshee/Ride Operator
+[4] • 12:39 PM - 8:30 PM [7.8500]
+4056 Banshee/Ride Operator

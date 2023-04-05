@@ -1,0 +1,90 @@
+Date
+4/14/2023
+Shift Type
+11:00 AM - 8:30 PM [9.5000]
+4080 Racer/Ride Operator
+Shift Details
+11:00 AM - 3:00 PM [4.0000] 
+4080 Racer/Ride Operator
+3:00 PM - 3:30 PM [0.5000] 
+Break
+3:30 PM - 8:30 PM [5.0000] 
+4080 Racer/Ride Operator
+Comments [1]
+ Other
+ Racer Sup-TL-L1C
+Date
+4/14/2023
+Shift Type
+[2] • 11:05 AM - 5:00 PM [5.9167]
+4080 Racer/Ride Operator
+Shift Details
+11:05 AM - 5:00 PM [5.9167] 
+4080 Racer/Ride Operator
+Comments [1]
+ Other
+ Racer L1B
+Date
+4/14/2023
+Shift Type
+[2] • 11:05 AM - 5:00 PM [5.9167]
+4080 Racer/Ride Operator
+Shift Details
+11:05 AM - 5:00 PM [5.9167] 
+4080 Racer/Ride Operator
+Comments [1]
+ Other
+ Racer L1C
+Date
+4/14/2023
+Shift Type
+11:05 AM - 5:00 PM [5.9167]
+4081 Zephyr/Ride Operator
+Shift Details
+11:05 AM - 5:00 PM [5.9167] 
+4081 Zephyr/Ride Operator
+Comments [0]
+Date
+4/14/2023
+Shift Type
+11:05 AM - 8:30 PM [9.4167]
+4081 Zephyr/Ride Operator
+Shift Details
+11:05 AM - 8:30 PM [9.4167] 
+4081 Zephyr/Ride Operator
+Comments [1]
+ Other
+ Zephyr L1
+Date
+4/14/2023
+Shift Type
+[2] • 12:37 PM - 8:30 PM [7.8833]
+4080 Racer/Ride Operator
+Shift Details
+12:37 PM - 8:30 PM [7.8833] 
+4080 Racer/Ride Operator
+Comments [1]
+ Other
+ Racer L1C
+Date
+4/14/2023
+Shift Type
+[2] • 12:37 PM - 8:30 PM [7.8833]
+4080 Racer/Ride Operator
+Shift Details
+12:37 PM - 8:30 PM [7.8833] 
+4080 Racer/Ride Operator
+Comments [1]
+ Other
+ Racer L1B
+Date
+4/14/2023
+Shift Type
+12:37 PM - 8:30 PM [7.8833]
+4081 Zephyr/Ride Operator
+Shift Details
+12:37 PM - 8:30 PM [7.8833] 
+4081 Zephyr/Ride Operator
+Comments [1]
+ Other
+ Zephyr L1
