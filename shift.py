@@ -39,7 +39,7 @@ class Shift:
             elif end < dt.time(20,15):
                 return "OS "
             else:
-                return "O-C"
+                return "O C"
         elif start < dt.time(13,30):
             if end < dt.time(20,15):
                 return " S "
@@ -51,10 +51,44 @@ class Shift:
     def __str__(self):
         return "{} {:>18} [{}] {} {}".format(self.shift_type,self.time_str,self.count, self.ride_num, self.ride)
 
+def display_shift_table (shifts,crews,divider=" "):
+    form = "{:>2} {:>2} {:>2} {:>2} {:>2} {:>2} {:>2} {}"
+    form = form.replace(" ",divider)
+    sorted_crews = sorted({v for _,v in crews.items()})
+    crew_order = {c: i for c,i in zip(sorted_crews, range(len(crews)))}
+    header = {
+        "O  ": "O",
+        " S ": "S",
+        "  C": "C",
+        "OS ": "OS",
+        " SC": "SC",
+        "O C": "AD",
+        "total": "AL"
+    }
+    header_order = ["total","OS "," SC","O C","O  "," S ","  C"]
+    vals = {h: [0 for _ in range(len(crews))] for h in header_order}
+    for shift in shifts:
+        i = crew_order[crews[shift.ride]]
+        typ = shift.shift_type
+        vals[typ][i] += shift.count
+        vals["total"][i] += shift.count
+    print((form[:-2]).format(*[header[h] for h in header_order]))
+    print("--+--+--+--+--+--+--+-")
+    for crew in sorted_crews:
+        i = crew_order[crew]
+        these_vals = [vals[h][i] if vals[h][i]>0 else "" for h in header_order] + [crew]
+        print(form.format(*these_vals))
+
+    print()
+    form = "|" + form.replace("2","3").replace(" ","|")
+    print((form[:-2]).format(*[header[h] for h in header_order]))
+    print("+---+---+---+---+---+---+---+-")
+    print(form.format(*([sum(vals[h]) for h in header_order]+["total"])))
+
 if __name__ == "__main__":
     # file can be selected from days/wed.txt or days/raw.txt which represent
-    # 4/12/23 and 4/15/23 respectively. This is the info as of 10:00 pm EDT on
-    # 4/4/23. Very interesting how they are scheduling us at the beginning of
+    # 4/12/23 and 4/15/23 respectively. This is the info as of 11:45 am EDT on
+    # 4/5/23. Very interesting how they are scheduling us at the beginning of
     # this year. I don't know what they're doing honestly. Also 4/15 and 4/16
     # have the exact same availible open shifts...
     with open("days/sat.txt", "r") as file:
@@ -77,3 +111,6 @@ if __name__ == "__main__":
 
     for shift in sorted(sorted(shifts, key=lambda s: s.times[0]), key=lambda s: crews[s.ride]):
         print(shift)
+    
+    print()
+    display_shift_table(shifts, crews)
