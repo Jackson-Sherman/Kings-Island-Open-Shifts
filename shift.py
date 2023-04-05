@@ -87,7 +87,7 @@ def display_shift_table (shifts,crews,divider=" "):
 
 if __name__ == "__main__":
     # file can be selected from days/wed.txt or days/raw.txt which represent
-    # 4/12/23 and 4/15/23 respectively. This is the info as of 11:45 am EDT on
+    # 4/12/23 and 4/15/23 respectively. This is the info as of 1:01 pm EDT on
     # 4/5/23. Very interesting how they are scheduling us at the beginning of
     # this year. I don't know what they're doing honestly. Also 4/15 and 4/16
     # have the exact same availible open shifts...
