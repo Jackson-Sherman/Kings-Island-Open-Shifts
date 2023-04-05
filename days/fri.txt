@@ -1,0 +1,104 @@
+9:04 AM - 4:00 PM [6.9333]
+4056 Banshee/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4059 Invertigo/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+[7] • 9:09 AM - 4:00 PM [6.8500]
+4056 Banshee/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4059 Invertigo/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4059 Invertigo/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4060 Congo/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4061 Delirium/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4061 Delirium/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4064 Skyflyer/Ride Operator
+9:04 AM - 4:00 PM [6.9333]
+4065 Drop Tower/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4062 Bat/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4064 Skyflyer/Ride Operator
+[2] • 9:09 AM - 4:00 PM [6.8500]
+4065 Drop Tower/Ride Operator
+9:09 AM - 4:00 PM [6.8500]
+4065 Drop Tower/Ride Operator
+9:02 AM - 4:00 PM [6.9667]
+4070 Mystic Timbers/Ride Operator
+9:02 AM - 4:00 PM [6.9667]
+4071 Beast/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4072 Flume/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+[4] • 9:07 AM - 4:00 PM [6.8833]
+4070 Mystic Timbers/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+[4] • 9:07 AM - 4:00 PM [6.8833]
+4071 Beast/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4072 Flume/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4072 Flume/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4073 Linus Launcher/Ride Operator
+9:02 AM - 4:00 PM [6.9667]
+4076 Diamondback/Ride Operator
+9:02 AM - 4:00 PM [6.9667]
+4077 Backlot/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4076 Diamondback/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4076 Diamondback/Ride Operator
+[6] • 9:07 AM - 4:00 PM [6.8833]
+4076 Diamondback/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4077 Backlot/Ride Operator
+9:07 AM - 4:00 PM [6.8833]
+4077 Backlot/Ride Operator
+[3] • 9:07 AM - 4:00 PM [6.8833]
+4077 Backlot/Ride Operator
+[2] • 9:07 AM - 4:00 PM [6.8833]
+4078 Troika/Ride Operator
+10:02 AM - 4:00 PM [5.9667]
+4075 Train/Ride Operator
+[3] • 10:07 AM - 4:00 PM [5.8833]
+4075 Train/Ride Operator
+[2] • 10:07 AM - 4:00 PM [5.8833]
+4075 Train/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4080 Racer/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4080 Racer/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4080 Racer/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4081 Zephyr/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4081 Zephyr/Ride Operator
