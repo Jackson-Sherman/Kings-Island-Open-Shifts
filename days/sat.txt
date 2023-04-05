@@ -356,3 +356,33 @@
 4096 Carousel/Ride Operator
 3:40 PM - 10:45 PM [7.0833]
 4095 Tower/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4097 North Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+[3] • 11:41 AM - 8:00 PM [8.3167]
+4097 North Planet Snoopy/Ride Operator
+[2] • 3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+[2] • 3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+3:41 PM - 10:30 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+3:41 PM - 10:45 PM [7.0667]
+4097 North Planet Snoopy/Ride Operator
