@@ -102,3 +102,103 @@
 4081 Zephyr/Ride Operator
 9:05 AM - 4:00 PM [6.9167]
 4081 Zephyr/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4082 Monster/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4082 Monster/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4083 Dodgem/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4084 Scrambler/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4084 Scrambler/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4085 Flight of Fear/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4088 Antique Autos/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+[5] • 9:05 AM - 4:00 PM [6.9167]
+4085 Flight of Fear/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4088 Antique Autos/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4088 Antique Autos/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4089 Windseeker/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4089 Windseeker/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4090 Orion/Ride Operator
+9:00 AM - 4:00 PM [7.0000]
+4095 Tower/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+[7] • 9:05 AM - 4:00 PM [6.9167]
+4090 Orion/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4095 Tower/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4096 Carousel/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4101 West Planet Snoopy/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4101 West Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4097 North Planet Snoopy/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4106 East Planet Snoopy/Ride Operator
+9:06 AM - 4:00 PM [6.9000]
+4110 South Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4106 East Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4110 South Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4110 South Planet Snoopy/Ride Operator
+[2] • 9:11 AM - 4:00 PM [6.8167]
+4110 South Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4110 South Planet Snoopy/Ride Operator
+9:11 AM - 4:00 PM [6.8167]
+4110 South Planet Snoopy/Ride Operator
+[2] • 9:05 AM - 4:00 PM [6.9167]
+4058 Viking Ship/Ride Operator
+9:05 AM - 4:00 PM [6.9167]
+4058 Viking Ship/Ride Operator
