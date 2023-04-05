@@ -1,6 +1,7 @@
 import json
 import datetime as dt
 import re
+from get_type_osc import get_type_osc
 
 class Shift:
     def __init__(self, obj):
@@ -13,6 +14,7 @@ class Shift:
         except:
             self.desc = None
         self.count = obj["totalSimilarShifts"]
+        self.type = get_type_osc(self.start, self.end)
     
     def _get_ride_info(obj):
         def process_qualifier(qualifier):
@@ -24,7 +26,8 @@ class Shift:
                 return segment["orgJobRef"]["id"], process_qualifier(segment["orgJobRef"]["qualifier"])
     
     def __str__(self):
-        return "{:0>2}:{:0>2} - {:0>2}:{:0>2} [{}] {} {}".format(
+        return "{} {:0>2}:{:0>2} - {:0>2}:{:0>2} [{}] {} {}".format(
+            self.type,
             self.start.time().hour,
             self.start.time().minute,
             self.end.time().hour,
@@ -35,15 +38,16 @@ class Shift:
         )
 
 if __name__ == "__main__":
-    date = "2023-04-14"
+    date = "2023-04-15"
     with open("raw.json", "r") as file:
         data = json.load(file)
     shifts = {}
     for d in data:
-        ids = d["openByDate"][date]
-        for i in ids:
-            if i not in shifts:
-                shifts[i] = Shift(d["openById"][i])
+        if date in d["openByDate"]:
+            ids = d["openByDate"][date]
+            for i in ids:
+                if i not in shifts:
+                    shifts[i] = Shift(d["openById"][str(i)])
 
     for shift in sorted(shifts.values(), key=lambda s: s.start):
         print(shift)

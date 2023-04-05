@@ -1,6 +1,7 @@
 import datetime as dt
 import re
 import json
+from get_type_osc import get_type_osc
 
 class Shift:
     def __init__(self, lines):
@@ -14,8 +15,7 @@ class Shift:
         line = str(lines[1])
         self.ride_num = int(re.search(r"^\d+",line).group(0))
         self.ride = re.search(r"^\d+\s([^/]*)/", line).group(1)
-        self.type = re.search(r"^[^/]+/(.*)",line).group(1)
-        self.shift_type = Shift._generate_type(self.times)
+        self.type = get_type_osc(*self.times)
     
     def _generate_times(line):
         def get_time(gs,i):
@@ -30,26 +30,9 @@ class Shift:
             return dt.time(hr, mi)
         groups = re.search(r"^[^0-9]*(1?\d):([0-5]\d) (A|P)M - (1?\d):([0-5]\d) (A|P)M \[(1?\d[.]\d{4})\]",str(line)).groups()
         return (get_time(groups, False), get_time(groups, True)), float(groups[6])
-    
-    def _generate_type(times):
-        start, end = times
-        if start < dt.time(11,15):
-            if end < dt.time(18):
-                return "O  "
-            elif end < dt.time(20,15):
-                return "OS "
-            else:
-                return "O C"
-        elif start < dt.time(13,30):
-            if end < dt.time(20,15):
-                return " S "
-            else:
-                return " SC"
-        else:
-            return "  C"
 
     def __str__(self):
-        return "{} {:>18} [{}] {} {}".format(self.shift_type,self.time_str,self.count, self.ride_num, self.ride)
+        return "{} {:>18} [{}] {} {}".format(self.type,self.time_str,self.count, self.ride_num, self.ride)
 
 def display_shift_table (shifts,crews,divider=" "):
     form = "{:>2} {:>2} {:>2} {:>2} {:>2} {:>2} {:>2} {}"
@@ -69,7 +52,7 @@ def display_shift_table (shifts,crews,divider=" "):
     vals = {h: [0 for _ in range(len(crews))] for h in header_order}
     for shift in shifts:
         i = crew_order[crews[shift.ride]]
-        typ = shift.shift_type
+        typ = shift.type
         vals[typ][i] += shift.count
         vals["total"][i] += shift.count
     print((form[:-2]).format(*[header[h] for h in header_order]))
@@ -92,7 +75,7 @@ if __name__ == "__main__":
     #  Very interesting how they are scheduling us at the beginning of
     # this year. I don't know what they're doing honestly. Also 4/15 and 4/16
     # have the exact same availible open shifts...
-    with open("days/temp.txt", "r") as file:
+    with open("days/sat.txt", "r") as file:
         all_lines = file.read().splitlines()
     
     with open("crews.json", "r") as file:
